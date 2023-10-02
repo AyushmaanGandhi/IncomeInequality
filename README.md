@@ -6,7 +6,7 @@ Welcome to my project repository! Here, you'll find all the materials and result
 
 ### 1. **[`View_Full_Project.md`](https://github.com/AyushmaanGandhi/IncomeInequality/blob/main/View_Full_Project.md)**
   - This markdown file provides a link to view the fully rendered and interactive version of the notebook using Nbviewer.
-      - **The link is provided again ###[here](https://nbviewer.org/github/AyushmaanGandhi/IncomeInequality/blob/main/Notebook_No_Visualization.ipynb) for your convenience.**
+      - **The link is provided again ### [here](https://nbviewer.org/github/AyushmaanGandhi/IncomeInequality/blob/main/Notebook_No_Visualization.ipynb) for your convenience.**
   - Nbviewer provides enhanced viewing capabilities, ensuring **all** visualizations, particularly those created with Altair, are rendered and interactive.
   - This version is ideal for those who wish to explore the complete and interactive project directly in their web browser without needing to run the code.
 
@@ -22,5 +22,6 @@ Welcome to my project repository! Here, you'll find all the materials and result
 Thank you for exploring my project, and feel free to reach out if you have any questions or feedback!
 
 Best,
+
 Ayushmaan Gandhi
 
